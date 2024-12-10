@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+    .imagenes{
+        columns: 5 240px;
+        margin: auto;
+    }
